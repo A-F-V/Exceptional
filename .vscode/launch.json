@@ -8,7 +8,7 @@
             "type": "lldb",
             "request": "launch",
             "name": "Debug Main",
-            "program": "${workspaceFolder}/build/src/FastMatch",
+            "program": "${workspaceFolder}/build/src/Exceptional_Run",
             "args": [],
             "cwd": "${workspaceFolder}",
             "preLaunchTask": "${defaultBuildTask}",
